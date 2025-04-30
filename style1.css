@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+.carousel-item{
+    height: 500px;
+}
+.carousel-image-1{
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ebay.com%2Fitm%2F204420940909&psig=AOvVaw3aUyulkC3muTZM4MJUW20k&ust=1727328740045000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiFx5Gv3YgDFQAAAAAdAAAAABA6.jpg);
+    background-size: cover;
+}
+.carousel-image-2{
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fshopee.co.th%2FConverse-Jack-purcell-rally-i.2776001.10239803143&psig=AOvVaw3aUyulkC3muTZM4MJUW20k&ust=1727328740045000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiFx5Gv3YgDFQAAAAAdAAAAABBi.jpg);
+    background-size: cover;
+}
+.carousel-image-3{
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fjjwestusa.plazathai.com%2Fshow611645%2F&psig=AOvVaw3aUyulkC3muTZM4MJUW20k&ust=1727328740045000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiFx5Gv3YgDFQAAAAAdAAAAABBt.jpg);
+    background-size: cover;
+}
+section.footer{
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 3rem;
+}
+.carousel-imagenew-1{
+    background-color: #DFDBE5;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%239C92AC' fill-opacity='0.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");  
+    background-size: cover;
+}
+.carousel-imagenew-2{
+    background-color: #DFDBE5;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cg fill='%239C92AC' fill-opacity='0.4'%3E%3Cpolygon fill-rule='evenodd' points='8 4 12 6 8 8 6 12 4 8 0 6 4 4 6 0 8 4'/%3E%3C/g%3E%3C/svg%3E");
+    background-size: cover;
+}
+.carousel-imagenew-3{
+    background-color: #DFDBE5;
+    background-image: url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%239C92AC' fill-opacity='0.4' fill-rule='evenodd'%3E%3Cpath d='M0 40L40 0H20L0 20M40 40V20L20 40'/%3E%3C/g%3E%3C/svg%3E");
+    background-size: cover;
+}
+
+.converse-image{
+   height: 300px;
+   width: 300px;
+}
+*{
+    font-family: "IBM Plex Sans Thai", sans-serif;
+}
